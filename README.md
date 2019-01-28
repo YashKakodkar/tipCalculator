@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://gph.is/2RhYJmz' title='Tip Calculator Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/iAPF9p5auTSvjyQ7ux/giphy.gif' title='Tip Calculator Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [GIPHY](http://www.giphy.com).
 
